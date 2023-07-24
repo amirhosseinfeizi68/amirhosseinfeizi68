@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirhossein feizi
 - 👀 I’m interested in robotics and control engineering.
-- 🌱 I’m currently learning Imitation Approaches for Humanoid Robot (NAO) with machine learning and reinforcement learning.
+- 🌱 I’m currently working at Taarlab (human and robot interaction laboratory) and learning Imitation Approaches for Humanoid Robot (NAO) with machine learning and reinforcement learning.
 - 💞️ I’m looking for ph.D position in Robotics or control engineering.
 - 📫 How to reach me : email:@amirhosseinfeizi68  linkdin: Amir Hossein Feizi
 
